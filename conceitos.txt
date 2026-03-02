@@ -1,0 +1,9 @@
+A) URL: Uma URL basicamente serve como um endereço e um rótulo único para encontrar e reconhecer qualquer coisa disponível na internet
+
+B) HTTP: O HTTP basicamente funciona como o conjunto de regras e o jeito padrão de enviar e receber informações pela internet, tipo o idioma que os computadores usam pra se comunicar e trocar dados na web.
+
+C) TCP: O TCP basicamente atua como o protocolo que garante a entrega confiável, organizada e sem erros de dados pela rede. 
+
+D) IP: O IP basicamente serve como o sistema de endereçamento e roteamento que direciona os pacotes de dados pela rede que garante que as mensagens cheguem ao destino certo na internet. 
+
+E) DNS: O DNS tema função de transformar um nome de uma site para um endereço de IP, o que facilita na hora de fazer buscas, sem a necessidade de decorar e digitar o endereço de IP, cada domínio tem seu endereço de IP.
